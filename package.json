@@ -5,6 +5,7 @@
   "homepage": "https://comunitysw.github.io/main",
   "dependencies": {
     "browserslist": "^4.0.2",
+    "express": "^4.16.3",
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
